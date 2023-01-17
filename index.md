@@ -18,4 +18,3 @@ Basic information on how to update the content is in the README file.
 Our <a href="mailto:it-polarvis-info@lists.uu.se">email</a> :)
 
 
-
