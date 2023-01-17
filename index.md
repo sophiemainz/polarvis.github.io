@@ -17,5 +17,7 @@ Basic information on how to update the content is in the README file.
 
 Our <a href="mailto:it-polarvis-info@lists.uu.se">email</a> :)
 
-
+<a href="https://twitter.com/polarvisproject">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" height="30" alt="Twitter icon">
+</a>
 
